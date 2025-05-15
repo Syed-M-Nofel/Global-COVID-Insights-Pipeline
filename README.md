@@ -23,3 +23,20 @@ A unified preprocessing and exploratory analysis framework for the JHU-CSSE COVI
   - Correlation & mixed-effects modeling for vaccine–mortality analysis  
   - Time-series decomposition (STL) for recovery vs. death trends & seasonality  
   - Threshold analysis for identifying lagging regions
+
+## 📚 Data Sources & Citations
+
+- **JHU CSSE COVID-19**  
+  - **Confirmed Cases**: `time_series_covid19_confirmed_global.csv`  
+  - **Deaths**: `time_series_covid19_deaths_global.csv`  
+  - **Recoveries**: `time_series_covid19_recovered_global.csv`  
+  - Repository: [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
+
+- **Our World in Data — COVID-19 Vaccinations**  
+  - **Vaccination Data**: `owid-covid-data.csv`  
+  - Source: <https://covid.ourworldindata.org/data/owid-covid-data.csv>
+
+---
+
+## 🏷️ Tags
+
