@@ -1,4 +1,4 @@
-# Global-COVID-Insights-Pipeline
+ # Global-COVID-Insights-Pipeline
 
 A unified preprocessing and exploratory analysis framework for the JHU-CSSE COVID-19 datasets, enriched with vaccination metrics to surface dynamic infection hotspots, mortality correlations, and seasonal patterns.
 
@@ -36,7 +36,4 @@ A unified preprocessing and exploratory analysis framework for the JHU-CSSE COVI
   - **Vaccination Data**: `owid-covid-data.csv`  
   - Source: <https://covid.ourworldindata.org/data/owid-covid-data.csv>
 
----
-
-## 🏷️ Tags
 
