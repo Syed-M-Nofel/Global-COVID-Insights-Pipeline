@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Streamlit App](https://img.shields.io/badge/View%20App-LIVE-green)](https://global-covid-insights-pipeline.streamlit.app/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Syed-M-Nofel/Global-COVID-Insights-Pipeline)](https://github.com/Syed-M-Nofel/Global-COVID-Insights-Pipeline)
-[![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Syed-M-Nofel.Global-COVID-Insights-Pipeline&color=blue&style=flat-square)](https://github.com/Syed-M-Nofel)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Syed-M-Nofel.Global-COVID-Insights-Pipeline)](https://github.com/Syed-M-Nofel)
 
 An interactive, end-to-end data science pipeline and dashboard for analyzing **COVID-19 trends globally**, using up-to-date data from trusted public sources.
 
